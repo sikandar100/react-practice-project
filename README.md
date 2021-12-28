@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Hierarchy/Flow Details
+
+This project will have commits as per video progress. I will try to mention video number in all the commits and will add comments to follow the flow or any changes.
+Also this repo will have the all the branches serately per video. if anyone wanna explore specific video or progress till that video or branch then he/she can.
+
 ## Available Scripts
 
 In the project directory, you can run:
