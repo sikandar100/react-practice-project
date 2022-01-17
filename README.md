@@ -8,8 +8,7 @@ This project will have commits as per video progress. I will try to mention vide
 Also this repo will have the all the branches separately per video except the first 8 videos which are merged into main now. if anyone wanna explore specific video or progress till that video or branch then he/she can.
 
 **video 1-8 --> main branch** (class and functional components branches merged into main now. wont do this for next branches for the code clarity and hierarchy) :)  
-
-video 9 --> props branch
+**video 9 --> props branch**
 
 ## Available Scripts
 
