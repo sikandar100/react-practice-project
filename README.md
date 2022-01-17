@@ -5,7 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project Hierarchy/Flow Details
 
 This project will have commits as per video progress. I will try to mention video number in all the commits and will add comments to follow the flow or any changes.
-Also this repo will have the all the branches separately per video. if anyone wanna explore specific video or progress till that video or branch then he/she can.
+Also this repo will have the all the branches separately per video except the first 8 videos which are merged into main now. if anyone wanna explore specific video or progress till that video or branch then he/she can.
+
+video 1-8 --> main branch (class and functional components branches merged into main now. wont do this for next branches for the code clarity and hierarchy) :)
+video 9 --> props branch
 
 ## Available Scripts
 
