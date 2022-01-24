@@ -9,6 +9,7 @@ Also this repo will have the all the branches separately per video except the fi
 
 **video 1-8 --> main branch** (class and functional components branches merged into main now. I will try not do this for next branches for the code clarity and hierarchy) :)  
 **video 9 --> props branch**
+**video 10 --> stateInClassComponents Branch**
 
 ## Available Scripts
 
